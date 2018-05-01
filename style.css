@@ -1,0 +1,18 @@
+p{
+    color:coral;
+    background-color:mediumseagreen;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.yellow{
+    background: darkgoldenrod;
+}
+.blue{
+    background: honeydew
+}
+img{
+    width:50%
+}
